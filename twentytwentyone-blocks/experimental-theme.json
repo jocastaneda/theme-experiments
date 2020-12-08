@@ -289,5 +289,17 @@
 				"lineHeight": "var(--wp--custom--line-height--body)"
 			}
 		}
+	},
+	"core/code": {
+		"styles": {
+			"spacing": {
+				"padding": {
+					"top": "var(--wp--custom--spacing--unit)",
+					"bottom": "var(--wp--custom--spacing--unit)",
+					"left": "var(--wp--custom--spacing--unit)",
+					"right": "var(--wp--custom--spacing--unit)"
+				}
+			}
+		}
 	}
 }
